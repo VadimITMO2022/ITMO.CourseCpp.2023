@@ -1,0 +1,9 @@
+student, 10355, Tom Minsons, 27-23, 125
+student, 10357, Mary Taylor, 11-25, 128
+student, 10364, John Bradshow, 07-23, 134
+teacher, 20356, John Smith, 22-56, Professor, 10355, Tom Minsons
+teacher, 20676, Neel Sander, 11-25, Lecturer, 10357, Mary Taylor
+teacher, 20623, Rhonda O'Shely, 41-29, Associate Professor, 10364, John Bradshow
+collegue, 30356, Susan McGee, 82-36, Chemistry
+collegue, 30676, Nancy Desham, 15-75, Accounting
+collegue, 30623, Mildred Gonsales, 43-99, Human Resources
